@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Casa do Mickey" tvg-logo="http://painelgerenciador.com.br/logos/img/24horas.png" group-title="Canais [24H]",[24H] A Casa do Mickey
+http://node7.homelinux.com:80/igor01/igor01/69248
+#EXTINF:-1 tvg-id="" tvg-name="[24H] As Aventuras de Jackie Chan" tvg-logo="http://painelgerenciador.com.br/logos/img/24horas.png" group-title="Canais [24H]",[24H] As Aventuras de Jackie Chan
+http://node7.homelinux.com:80/igor01/igor01/69249
 #EXTINF:-1 tvg-id="" tvg-name="[24h] A Turma da Monica" tvg-logo="http://painelgerenciador.com.br/logos/img/24horas.png" group-title="Canais [24H]",[24h] A Turma da Monica
 http://node7.homelinux.com:80/igor01/igor01/69250
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball GT" tvg-logo="http://painelgerenciador.com.br/logos/img/24horas.png" group-title="Canais [24H]",[24H] Dragon Ball GT
@@ -644,7 +648,3 @@ http://node7.homelinux.com:80/igor01/igor01/69539
 http://node7.homelinux.com:80/igor01/igor01/69540
 #EXTINF:-1 tvg-id="" tvg-name="DP [24H]" tvg-logo="http://node7.homelinux.com:25461/images/229a02cbec88e1d703cd90535c533bb6.png" group-title="Canais Adultos",DP [24H]
 http://node7.homelinux.com:80/igor01/igor01/69542
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A Casa do Mickey" tvg-logo="http://painelgerenciador.com.br/logos/img/24horas.png" group-title="Canais [24H]",[24H] A Casa do Mickey
-http://node7.homelinux.com:80/igor01/igor01/69248
-#EXTINF:-1 tvg-id="" tvg-name="[24H] As Aventuras de Jackie Chan" tvg-logo="http://painelgerenciador.com.br/logos/img/24horas.png" group-title="Canais [24H]",[24H] As Aventuras de Jackie Chan
-http://node7.homelinux.com:80/igor01/igor01/69249
